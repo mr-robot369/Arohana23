@@ -132,5 +132,4 @@ This project is licensed under the MIT License.
   <img src="https://hosturl.link/sxuyEV" width="200" />
   <img src="https://hosturl.link/XYmZ9s" width="100" />
   <img src="https://hosturl.link/qCKjaf" width="100" />
-  <img src="https://pgdavhyperion.in/logos/techwhizlogo2.jpeg" width="100" />
 </p>
