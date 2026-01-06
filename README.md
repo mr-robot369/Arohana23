@@ -85,7 +85,7 @@ The team transformed the fest’s vision into a digital reality by:
 The frontend is deployed using a dedicated **gh-pages** branch.
 
 **Live URL:**  
-https://<your-username>.github.io/<repo-name>/
+https://mr-robot369.github.io/Arohana23/
 
 ### VPS Deployment
 Earlier deployed on an external VPS using Node.js & Express.
@@ -95,7 +95,7 @@ Earlier deployed on an external VPS using Node.js & Express.
 ## 🛠️ Local Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mr-robot369/Arohana23.git
 cd your-repo
 npm install
 npm start
